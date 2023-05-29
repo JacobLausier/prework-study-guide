@@ -12,7 +12,7 @@ footer {
 }
 
 h1,
-h2{
+h2 {
     text-align: center;
 }
 
@@ -24,12 +24,12 @@ img {
     margin-right: auto;
 }
 
-ul{
+ul {
     padding-left: 40px;
     font-size: 20px;
 }
 
-p{
+p {
     text-align: center;
     font-size: 30px;
 }
